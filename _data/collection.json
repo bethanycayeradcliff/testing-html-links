@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Testing HTML and Links" ] },
+    "summary": { "en": [ "testing html and links in annotation files" ] },
+    "items": [
+    ]
+}
