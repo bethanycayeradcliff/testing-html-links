@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://bethanycayeradcliff.github.io/testing-html-links/maggie-nelson-penn-sound-204/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Maggie Nelson Penn Sound 204" ] },
+    "homepage": [
+      {
+        "id": "https://writing.upenn.edu/pennsound/x/Nelson.php",
+        "type": "Text",
+        "label": { "en": [ "Maggie Nelson Penn Sound 204" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://writing.upenn.edu/pennsound",
+        "type": "Agent",
+        "label": { "en": [ "Penn Sound" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://bethanycayeradcliff.github.io/testing-html-links/maggie-nelson-penn-sound-204/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 45.0,
+        "items": [
+          {
+            "id": "https://bethanycayeradcliff.github.io/testing-html-links/maggie-nelson-penn-sound-204/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://bethanycayeradcliff.github.io/testing-html-links/maggie-nelson-penn-sound-204/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://media.sas.upenn.edu/pennsound/authors/Nelson/4-26-13/Nelson-Maggie_204_MFA-Reading-Series_Boise-State-University_04-26-2013.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 45.0
+                },
+                "target": "https://bethanycayeradcliff.github.io/testing-html-links/maggie-nelson-penn-sound-204/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
