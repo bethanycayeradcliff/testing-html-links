@@ -140,27 +140,6 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "<body style=\"background-color:powderblue;\">  <h1>This is a heading</h1> <p>This is a paragraph.</p>  </body>",
-        "format": "text/plain"
-      },
-      "target": {
-        "source": "https://bethanycayeradcliff.github.io/testing-html-links/maggie-nelson-penn-sound-204/canvas-1/canvas",
-        "selector": {
-          "type": "PointSelector",
-          "t": "16"
-        }
-      }
-    },
-    {
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://bethanycayeradcliff.github.io/testing-html-links/maggie-nelson-penn-sound-204/canvas-1/canvas/html-annotation-7.json",
-      "type": "Annotation",
-      "motivation": [
-        "supplementing",
-        "commenting"
-      ],
-      "body": {
-        "type": "TextualBody",
         "value": "<b>This text is bold</b>",
         "format": "text/plain"
       },
@@ -174,7 +153,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://bethanycayeradcliff.github.io/testing-html-links/maggie-nelson-penn-sound-204/canvas-1/canvas/html-annotation-8.json",
+      "id": "https://bethanycayeradcliff.github.io/testing-html-links/maggie-nelson-penn-sound-204/canvas-1/canvas/html-annotation-7.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -195,7 +174,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://bethanycayeradcliff.github.io/testing-html-links/maggie-nelson-penn-sound-204/canvas-1/canvas/html-annotation-9.json",
+      "id": "https://bethanycayeradcliff.github.io/testing-html-links/maggie-nelson-penn-sound-204/canvas-1/canvas/html-annotation-8.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -216,7 +195,7 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "https://bethanycayeradcliff.github.io/testing-html-links/maggie-nelson-penn-sound-204/canvas-1/canvas/html-annotation-10.json",
+      "id": "https://bethanycayeradcliff.github.io/testing-html-links/maggie-nelson-penn-sound-204/canvas-1/canvas/html-annotation-9.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
