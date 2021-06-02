@@ -23,6 +23,14 @@
         "id": "https://bethanycayeradcliff.github.io/testing-html-links/maggie-nelson-penn-sound-204/canvas-1/canvas",
         "type": "Canvas",
         "duration": 45.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://bethanycayeradcliff.github.io/testing-html-links/maggie-nelson-penn-sound-204/canvas-1/canvas/html.json",
+            "label": "HTML"
+          }
+        ],
         "items": [
           {
             "id": "https://bethanycayeradcliff.github.io/testing-html-links/maggie-nelson-penn-sound-204/canvas-1/paintings",
