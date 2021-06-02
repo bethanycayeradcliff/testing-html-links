@@ -30,6 +30,12 @@
             "id": "https://bethanycayeradcliff.github.io/testing-html-links/maggie-nelson-penn-sound-204/canvas-1/canvas/html.json",
             "label": "HTML"
           }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://bethanycayeradcliff.github.io/testing-html-links/maggie-nelson-penn-sound-204/canvas-1/canvas/html2.json",
+            "label": "HTML2"
+          }
         ],
         "items": [
           {
